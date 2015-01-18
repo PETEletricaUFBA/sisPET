@@ -3,10 +3,11 @@
 #### Sistema de inscrição via carteirinha do estudante - [PET Elétrica UFPR](http://www.eletrica.ufpr.br/pet)
   
  **Licença:** [Atribuição CC BY](http://creativecommons.org/licenses/by/4.0/)  
-  
+ 
+ obs: este foi meu primeiro projeto feito em Python, então ainda há muito o que consertar.
       
 **Dependências:**
-
+ * Testado com Python 2.7.6
  * [Google Spreadsheets Python API](https://github.com/burnash/gspread)
  * [ZBar bar code reader](http://zbar.sourceforge.net/)
  * Banco de dados gerado com o projeto [inscriPET](https://github.com/wsilverio/inscriPET/)
